@@ -1,4 +1,5 @@
 # Pig-Game
+**How to play?**
 At start, player 1 is the active player.
 Click ROLL DICE.
 Turned out value will get added to the current score.
